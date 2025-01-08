@@ -1,0 +1,17 @@
+pwd
+g++ hello.cpp 
+ls -a
+./a.out 
+cd lahet/code/
+ls
+g++ hello.cpp 
+g 
+vim ~/.zshrc
+pwd
+source .zshrc
+source ~/.zshrc
+g
+zsh
+this
+cd ../
+jekyll serve

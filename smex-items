@@ -1,0 +1,54 @@
+
+;; ----- smex-history -----
+(
+ scheme-send-region
+ run-scheme
+ scheme-mode
+ eshell
+ theme-dark
+ yas-expand
+ yas-new-snippet
+)
+
+;; ----- smex-data -----
+(
+ (eglot . 4)
+ (company-mode . 2)
+ (all-the-icons-insert . 2)
+ (flymake-mode . 1)
+ (eldoc . 1)
+ (eldoc-mode . 1)
+ (toggle-theme . 1)
+ (run-scheme . 7)
+ (scheme-mode . 2)
+ (scheme-send-region . 16)
+ (pixel-scroll-mode . 1)
+ (pixel-scroll-precision-mode . 2)
+ (rime-deploy . 4)
+ (rime-sync . 2)
+ (load-theme . 7)
+ (treesit-install-language-grammar . 13)
+ (python-ts-mode . 2)
+ (emacs-session-save . 1)
+ (theme-dark . 17)
+ (theme-light . 16)
+ (eval-region . 7)
+ (display-line-numbers-mode . 3)
+ (toggle-frame-fullscreen . 4)
+ (bury-buffer . 1)
+ (ielm . 1)
+ (ielm-toggle . 1)
+ (ido-mode . 2)
+ (emoji-list . 1)
+ (emoji-insert . 4)
+ (line-number-mode . 2)
+ (kill-line . 1)
+ (toggle-one-window . 1)
+ (compile-and-run-cpp . 2)
+ (eshell . 5)
+ (enlarge-window-horizontally . 1)
+ (olivetti-mode . 2)
+ (describe-mode . 1)
+ (yas-new-snippet . 2)
+ (yas-expand . 2)
+)

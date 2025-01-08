@@ -1,0 +1,35 @@
+;;;; Emacs Bookmark Format Version 1;;;; -*- coding: utf-8-emacs; mode: lisp-data -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("post"
+ (filename . "~/golosina/_posts/")
+ (front-context-string . "  /home/mi/golos")
+ (rear-context-string)
+ (position . 1)
+ (last-modified 26492 52464 849984 415000))
+("cppnode"
+ (filename . "~/lahet/code/wi/note.md")
+ (front-context-string)
+ (rear-context-string)
+ (position . 1)
+ (last-modified 26487 40167 147046 239000))
+("allNote"
+ (filename . "~/lahet/allNote.md")
+ (front-context-string)
+ (rear-context-string . " describe-mode`\n")
+ (position . 41)
+ (last-modified 26487 40098 510040 230000))
+("config"
+ (filename . "~/.emacs.d/haoemacs/config/config.el")
+ (front-context-string . ";; 加速配置。\n(requir")
+ (rear-context-string)
+ (position . 1)
+ (last-modified 26483 52378 319700 252000))
+("theme"
+ (filename . "~/.emacs.d/haoemacs/config/init-theme.el")
+ (front-context-string . "(require 'kaolin")
+ (rear-context-string)
+ (position . 1)
+ (last-modified 26483 45403 398513 169000))
+)
